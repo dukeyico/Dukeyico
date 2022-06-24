@@ -24,8 +24,8 @@
 <a href="https://instagram.com/https://www.instagram.com/dukeyico?i=8u9p8ew3mlpk&utm_content=m2k9hwn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dukeyico?i=8u9p8ew3mlpk&utm_content=m2k9hwn" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://t.me/Dukeyico"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Dukeyico" height="30" width="50" /></a>
-<a href="https://gmail.com/dukeosamhengbe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dukeosamhengbe@gmail.com" height="30" width="50" /></a>
+<a href="https://t.me/Dukeyico"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="t.me/Dukeyico" height="30" width="50" /></a>
+<a href="dukeosamhengbe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dukeosamhengbe@gmail.com" height="30" width="50" /></a>
 </p>
 
 <h2 align="center">📊My GitHub Stats:</h2>
