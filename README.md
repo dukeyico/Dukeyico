@@ -31,8 +31,10 @@
 <p><h2 align="center">📊My GitHub Stats:</h2></p>
 <p align="center">
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dukeyico&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="dukeyico" />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dukeyico&show_icons=true&theme=dracula&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="dukeyico" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dukeyico&theme=dark" alt="dukeyico" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dukeyico&show_icons=true&theme=dracula&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="dukeyico" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dukeyico&theme=dark" alt="dukeyico" />
 </p>
 
 
