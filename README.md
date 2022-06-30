@@ -8,7 +8,7 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=WELCOME+TO+MY+PROFILE;I'M+DUKE+OKOJIE,;A+Tech+Enthusiast,+Developer,+Microsoft+Powerplatform+freelancer.;I'm+currently+learning+Linux,+visual+editor+and+Emacs.;Feel+free+to+contact+me+for+collaborations+and+all;Thank+you.&size=40&center=true&width=1550&height=100" alt="dukeyico">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=WELCOME+TO+MY+PROFILE:;I'M+DUKE+OKOJIE,;A+Tech+Enthusiast,+Developer,+Microsoft+Powerplatform+freelancer.;I'm+currently+learning+Linux,+visual+editor+and+Emacs.;Feel+free+to+contact+me+for+collaborations+and+all.;Thank+you.&size=40&multiline=true&center=true&width=1550&height=500" alt="dukeyico">
 </p>
 
 <p><h2 align="center">👨🏻‍💻Languages and Tools:</h2></p>
